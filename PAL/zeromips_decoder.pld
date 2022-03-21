@@ -1,0 +1,10 @@
+GAL16V8
+DECODER
+
+A15    A14    A13    A12    NC     NC     NC     NC     PHI2   GND
+NC     NC     NC     NC     NC     NC     NC     NC     SEL    VCC
+
+/SEL   = PHI2 * A15 * /A14 * /A13 * /A12
+
+
+DESCRIPTION
